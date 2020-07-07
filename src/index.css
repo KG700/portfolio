@@ -1,13 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600&display=swap" rel="stylesheet");
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Hind', sans-serif;
+  color: #FC766A;
+  text-align: center;
+  background-image: url("./assets/flower-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1 {
+  font-size: 600%;
+  margin-bottom: 0;
+}
+
+p {
+  font-size: 150%;
+}
+
+a {
+  color: #FC766A;
 }
