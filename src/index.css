@@ -1,9 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Hind:wght@400;500;600&display=swap" rel="stylesheet");
 
-body {
+html, body {
+  /* display: flex; */
   font-family: 'Hind', sans-serif;
   color: #FC766A;
   text-align: center;
+  height: 100%
+}
+
+body {
   background-image: url("./assets/flower-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
@@ -15,8 +20,12 @@ h1 {
   margin-bottom: 0;
 }
 
+h3 {
+  font-size: 160%;
+}
+
 p {
-  font-size: 150%;
+  font-size: 120%;
 }
 
 a {
