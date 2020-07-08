@@ -1,0 +1,18 @@
+.Navigation {
+  /* border: 1px solid white; */
+  height: 80px;
+  width: 100%;
+  /* position: fixed; */
+  /* justify-content: space-between; */
+  /* align-items: flex-end; */
+  /* box-sizing: border-box; */
+}
+
+.Navigation ul {
+  display: flex;
+  flex-flow: row;
+  justify-content: flex-end;
+  /* align-items: flex-end; */
+  list-style-type: none;
+  /* display: block */
+}
