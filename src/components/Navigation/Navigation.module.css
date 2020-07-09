@@ -25,6 +25,8 @@
   text-decoration: none;
 }
 
-.Navigation a:hover, a:active, a.active {
+.Navigation a:hover,
+.Navigation a:active,
+.Navigation a.active {
   color: #dfe2e1;
 }

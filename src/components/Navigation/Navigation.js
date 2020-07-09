@@ -10,8 +10,8 @@ const Navigation = () => {
   return (
     <nav className={classes.Navigation}>
       <ul>
-        <li><NavLink to='/'>HOME</NavLink></li>
-        <li><NavLink to='/work-experience'>EXPERIENCE</NavLink></li>
+        <li><NavLink to='/' activeClassName={classes.active}>HOME</NavLink></li>
+        <li><NavLink to='/work-experience' activeClassName={classes.active}>EXPERIENCE</NavLink></li>
         <li>EDUCATION</li>
         <li>PROJECTS</li>
         <li>LEARNING</li>
