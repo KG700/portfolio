@@ -3,13 +3,6 @@ import React from 'react';
 import classes from './Navigation.module.css';
 import { NavLink } from 'react-router-dom';
 
-import Home from '../../containers/pages/Home/Home';
-import WorkExperience from '../../containers/pages/WorkExperience/WorkExperience';
-import Education from '../../containers/pages/Education/Education';
-import Projects from '../../containers/pages/Projects/Projects';
-import Learning from '../../containers/pages/Learning/Learning';
-
-
 const Navigation = () => {
   return (
     <nav className={classes.Navigation}>
