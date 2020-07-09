@@ -8,7 +8,7 @@ const Home = () => {
       <div className={classes.Home}>
         <div className={classes.Container}>
           <h1>Karla Gardiner</h1>
-          <h3>Econometrician turned Computer Scientist</h3>
+          <h2>Econometrician turned Computer Scientist</h2>
           <Card>
             <p>After 8 years as an Econometrician I'm taking the leap into Software Development.
               I'm excited about turning my hobby into my career, and the endless potential to learn in this fast-changing industry.</p>

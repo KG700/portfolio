@@ -23,13 +23,18 @@ h1 {
 }
 
 h3 {
-  font-size: 160%;
+  /* font-size: 160%; */
   margin: 0;
   line-height: 1;
 }
 
+h4 {
+  color: #FC766A;
+  margin: 0;
+}
+
 p {
-  font-size: 120%;
+  font-size: 110%;
   /* color: #184A45; */
 }
 
