@@ -12,7 +12,8 @@ const Home = () => {
           <Card>
             <p>After 8 years as an Econometrician I'm taking the leap into Software Development.
               I'm excited about turning my hobby into my career, and the endless potential to learn in this fast-changing industry.</p>
-            <p>I am an enthusiastic, positive and self-motivated person, who enjoys taking on new challenges. Check out out my <a href='https://github.com/KG700/CV'>CV</a> to find out more</p>
+            <p>I am an enthusiastic, positive and self-motivated person, who enjoys taking on new challenges.</p>
+            <p>Check out out my GitHub <a href='https://github.com/KG700/CV'>CV</a> to find out more.</p>
           </Card>
         </div>
       </div>
