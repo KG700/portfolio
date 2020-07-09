@@ -6,6 +6,7 @@ const Navigation = () => {
   return (
     <nav className={classes.Navigation}>
       <ul>
+        <li>HOME</li>
         <li>EXPERIENCE</li>
         <li>EDUCATION</li>
         <li>PROJECTS</li>
