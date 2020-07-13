@@ -41,3 +41,7 @@ p {
 a {
   color: #FC766A;
 }
+
+ul {
+  list-style-type: none;
+}

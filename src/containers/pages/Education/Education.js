@@ -25,7 +25,7 @@ const Education = () => {
         <Card>
           <h3>University of Auckland</h3>
           <h4>2008 - 2010</h4>
-          <p>Masters with First Class Honours in Economics (1:1)</p>
+          <p>Masters with First Class Honours in Economics</p>
           <h4>Awards:</h4>
           <ul>
             <li>H R Rodwell Scholarship in Economics (2010)</li>

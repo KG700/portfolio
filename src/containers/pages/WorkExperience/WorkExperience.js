@@ -11,7 +11,7 @@ const WorkExperience = () => {
         <Card>
           <h3>Sky Ltd</h3>
           <h4>June 2015 to December 2019</h4>
-          <h5> Principal Econometrician (March 2017 to December 2019) | <br /> Lead Econometrician (June 2015 to February 2017)</h5>
+          <h5> Principal Econometrician (March 2017 to December 2019)<br /> Lead Econometrician (June 2015 to February 2017)</h5>
           <p>
             I was responsible for managing teams of up to 5 colleagues to deliver
             Econometric projects on time. I also became an expert amongst my colleagues
