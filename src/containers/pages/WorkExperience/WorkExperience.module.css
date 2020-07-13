@@ -1,5 +1,11 @@
 .Container {
   display: flex;
-  /* flex-direction: row; */
+  flex-direction: column;
   justify-content: center;
+}
+
+@media (min-width: 1000px){
+  .Container {
+    flex-direction: row;
+  }
 }

@@ -1,5 +1,5 @@
 .Card {
-  width: 500px;
+  width: 80%;
   height: 500px;
   /* background-color: #dfe2e1; */
   color: #184A45;
@@ -9,4 +9,11 @@
   padding: 30px;
   margin: 20px 20px 20px 20px;
   /* border: 1px solid #FC766A; */
+}
+
+@media (min-width: 600px) {
+  .Card {
+    min-width: 400px;
+    max-width: 500px;
+  }
 }
