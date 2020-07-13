@@ -1,6 +1,6 @@
 .Card {
   width: 80%;
-  height: 500px;
+  height: 400px;
   /* background-color: #dfe2e1; */
   color: #184A45;
   background-color: white;
@@ -13,7 +13,7 @@
 
 @media (min-width: 600px) {
   .Card {
-    min-width: 400px;
-    max-width: 500px;
+    /* min-width: 300px; */
+    max-width: 350px;
   }
 }
